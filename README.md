@@ -46,7 +46,7 @@ I mostly work with Kubernetes and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
   <a href="https://www.openshift.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamnst19/iamnst19/assets/openshift.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/iamnst19/iamnst19/masterassets/openshift.gif"  height="75" />
   </a>
   </p>
   
