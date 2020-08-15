@@ -45,11 +45,10 @@ I mostly work with Kubernetes and Cloud-Native technologies.☁️🚀
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
- </p>
- <p float="left">
   <a href="https://www.openshift.com/" target="_blank" >
     <img src="assets/openshift.gif"  height="75" />
-  </a> 
+  </a>
+  </p>
   
 ### Monitoring
   
