@@ -77,7 +77,7 @@ I mostly work with Kubernetes and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
+  ⦿ Visit my [Website](https://) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/nithinsajithomas/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/nithnz) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto: iamnst19@gmail.com) 💌 <br>
