@@ -4,7 +4,7 @@
 **itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Nithin](https://github.com/iamnst19)&nbsp, a passionate and creative Devops Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+I am [Nithin](https://github.com/iamnst19)&nbsp;a passionate and creative Devops Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
 I mostly work with Kubernetes and Cloud-Native technologies.☁️🚀
 
